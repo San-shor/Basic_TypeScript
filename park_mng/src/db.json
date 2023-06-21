@@ -1,0 +1,17 @@
+{
+  "parks": [
+    {
+      "license_no": "123",
+      "type": "Car",
+      "name": "sanjida",
+      "phone": "01163137",
+      "status": "in",
+      "address": "dhaka",
+      "entry_date": "2023-06-21T12:50",
+      "exit_date": "",
+      "parking_charge": "1200",
+      "icense_no": "4",
+      "id": 1
+    }
+  ]
+}
